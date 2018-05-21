@@ -1,4 +1,4 @@
-# xiaohongshu
+# 小红书 vue版
 
 > A Vue.js project
 
